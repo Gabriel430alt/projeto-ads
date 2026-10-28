@@ -1,0 +1,4 @@
+Dependências: Requests / NumPy / Matplotlib
+Licenças: Apache 2.0 / BSD 3-Claude / Licença permissiva baseada na PSF
+Permite uso comercial? Sim / Sim / Sim
+Obriga abrir o código derivado? Não / Não / Não
